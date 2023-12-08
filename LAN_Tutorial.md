@@ -23,4 +23,4 @@ Use **ethernet cables** to connect each computer to an open **LAN port** on your
 
 When each computer is assigned an IP address by your router, they'll be able to talk to each other on the network. Once your network is setup, you won't automatically see files from other computers unless that computer has shared files. You can designate files as *shared* so that anyone on the network, or specific computers, can access them. If you are using a switch instead of a router, you will need to setup one of your computers as a **DHCP server**, or **D**ynamic **H**ost **C**onfiguration **P**rotocol.
 
-[>Back<]()
+[>Back<](https://github.com/Dkseibert/INFOTC1600FINALPROJECT/tree/main)
