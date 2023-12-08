@@ -5,4 +5,4 @@ This tutorial is intended to help people set up a simple LAN network. The tutori
 
 The target audience for this tutorial are people who understand basic computer functions and want to set up a LAN network for their business/school/home/etc. 
 
-[Tutorial](LANtutorial.md)
+[Tutorial](LAN tutorial.md)
